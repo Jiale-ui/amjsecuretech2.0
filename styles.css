@@ -186,6 +186,20 @@ body {
   display: block;
 } 
 
+.header-logo {
+  height: 60px;
+  width: auto;
+}
+
+.logo-titulo {
+  display: flex;
+  align-items: center;
+  gap: 15px; /*espacio entre texto y imagen*/
+}
+.logo-nav {
+  padding: 20px 30px;
+}
+
 .Empresa {
   max-width: 1000px;
   margin: 0 auto;
